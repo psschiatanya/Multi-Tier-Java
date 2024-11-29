@@ -55,7 +55,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: psschiatanya/multi-tier-java:psschiatanya/bankapp:73
+        image: psschiatanya/psschiatanya/bankapp:74
         ports:
         - containerPort: 8080
         env:
