@@ -55,7 +55,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: psschiatanya/bankapp:78_20241130_0701
+        image: psschiatanya/bankapp:79_20241130_0713
         ports:
         - containerPort: 8080
         env:
